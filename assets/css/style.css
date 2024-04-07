@@ -1,0 +1,53 @@
+.icon-link{
+    font-size: 30px;
+    margin-right: 10px;
+}
+.icon-link:hover {
+    color: #007bff;
+}
+.navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+}
+.contenedor-imagen {
+    display: flex;
+    align-items: center;
+    background-color: dimgrey;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.imagen-redonda {
+    border-radius: 20%; 
+    margin-right: 20px; 
+}
+
+.texto-derecha {
+    margin-right: auto; 
+}
+
+.contenedor-datos{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+.contenedor-datos h3 {
+margin-top: 0;
+}
+.contenedor-idiomas{
+    background-color: cadetblue;
+    padding: 10px;
+    padding-bottom: 20px;
+}
+.idiomas{
+    text-align: center;
+}
+hr{
+    margin: 20px 0;
+}
+body.shadows-into-light-regular {
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 400;
+font-style: normal;
+  }
+  
